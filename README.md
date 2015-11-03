@@ -1,6 +1,14 @@
-frontend-nanodegree-arcade-game
-===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Welcome to Arcade Game!
 
-for self-checking their submission.
+DESCRIPTION:
+===========
+This game is similar to the classic arcade game, Frogger.  The goal is simple,
+move your character across the road to the water.
+
+
+HOW TO PLAY:
+========
+Run index.html in your internet browser to start the game.
+The goal of this game is to move the player up to the water without being touched by the ennemies.
+In order to move the player, just use the arrows on your keyboard.
